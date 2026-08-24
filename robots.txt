@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://21mhammad123-lab.github.io/sitemap.xml
